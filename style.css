@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #121212;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+table {
+  width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+  border-bottom: 1px solid #444;
+}
+
+th {
+  background-color: #222;
+}
+
+td img {
+  width: 25px;
+  height: 25px;
+}
+
+.positive {
+  color: #00ff99;
+}
+
+.negative {
+  color: #ff4d4d;
+}
